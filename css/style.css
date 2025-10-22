@@ -507,7 +507,7 @@ nav ul li a:hover::after {
 }
 
 .benefits-bg {
-    background-image: url('../img//stats.png');
+    background-image: url('../img/stats.png');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
